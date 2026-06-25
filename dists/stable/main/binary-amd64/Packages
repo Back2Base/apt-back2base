@@ -1,15 +1,15 @@
 Package: back2base
-Version: 0.49.1
+Version: 0.50.0
 Architecture: amd64
 Maintainer: Ramsey McGrath <ramseymcgrath@gmail.com>
 Installed-Size: 13788
 Depends: docker.io | docker-ce
 Recommends: docker-compose-plugin
-Filename: pool/main/back2base_0.49.1_linux_amd64.deb
-Size: 4949578
-MD5sum: eb7997f6d377e2f31a9b18e33eb4ec3a
-SHA1: 3ce6dae7c394333add0206da8eee6edae23978bb
-SHA256: 9dcd6cbc9cd40bdae0043cb41a7141f08b1cab3a7fa0807137bb04117adcf302
+Filename: pool/main/back2base_0.50.0_linux_amd64.deb
+Size: 4949572
+MD5sum: 2345ad044962eca90369f03b325a573b
+SHA1: b20fab287d0f5c0d2f2f40b4c9ab540b8016a0a8
+SHA256: 4dfed5f9ca8a78b284e0ff2b4cc123cda661acdea82150e8bf603633b57c73e0
 Section: devel
 Priority: optional
 Homepage: https://back2base.net
