@@ -1,17 +1,16 @@
 Package: back2base
-Version: 0.67.1
+Version: 0.67.2
 Architecture: amd64
 Maintainer: Ramsey McGrath <ramseymcgrath@gmail.com>
 Installed-Size: 9664
 Depends: docker.io | docker-ce
-Filename: pool/main/back2base_0.67.1_linux_amd64.deb
-Size: 3815834
-MD5sum: 9d6fc3485ef5d4e5a81620294493b2f4
-SHA1: 171b9c971d395488286edee365f8b6f45ac33179
-SHA256: dd473ff7d2b759a6fd10e6bc39569b084a3a2477a04e6ee1ccd502b5719c152d
+Filename: pool/main/back2base_0.67.2_linux_amd64.deb
+Size: 3802446
+MD5sum: 653983b462156b0a36ff346ffe7860cc
+SHA1: 9e19adf36c503ec5977bdeeb6a1d359ff8d46357
+SHA256: 4b7bee0abb51c6e6cfb8f0e8540ff8776f32b0b7236ef90597261f4ff4fc39c7
 Section: devel
 Priority: optional
 Homepage: https://back2base.net
 Description: Containerized Claude Code with curated MCP servers
-Architecture-Variant: amd64v1
 
