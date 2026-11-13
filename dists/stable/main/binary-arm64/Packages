@@ -1,14 +1,14 @@
 Package: back2base
-Version: 0.101.1
+Version: 0.101.2
 Architecture: arm64
 Maintainer: Ramsey McGrath <ramseymcgrath@gmail.com>
 Installed-Size: 11712
 Depends: docker.io | docker-ce
-Filename: pool/main/back2base_0.101.1_linux_arm64.deb
-Size: 4343374
-MD5sum: 5b18ba9d548ddfc0474f9955e9daf3b1
-SHA1: b041876f716eee97719b131a96243e03256427eb
-SHA256: 3c6143621fe1ec210fd12ad0b9088eb7ffbd2a8f080d4559b768a4fd566ae3b9
+Filename: pool/main/back2base_0.101.2_linux_arm64.deb
+Size: 4346212
+MD5sum: 43b7bd932fb3229477554946dc536bfc
+SHA1: 4663986c3570d844895efbd6802dbe36cedfb42a
+SHA256: 8765a90dd42f7078bf5b80b392fd06eb70f0dd714caa9e79cd90ae6864a94b72
 Section: devel
 Priority: optional
 Homepage: https://back2base.net
